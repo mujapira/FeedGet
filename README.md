@@ -33,11 +33,6 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 - [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/package/npm)
 - [Expo CLI](https://docs.expo.dev/workflow/expo-cli)
 
-**Clone the project and access the folder**
-
-```bash
-git clone https://github.com/EliasGcf/feedget.git && cd feedget
-```
 
 **Follow the steps below**
 
