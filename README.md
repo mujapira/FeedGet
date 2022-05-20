@@ -72,29 +72,5 @@ $ cp .env.local.example .env.local
 $ npm run dev
 ```
 
-### Mobile
 
-**Make sure to have the server running**
 
-```bash
-# From the project root folder access the 'mobile' folder
-$ cd mobile
-# Install the dependencies
-$ npm install
-# If you are going to emulate with android, run this command
-$ npm run android
-# If you are going to emulate with ios, run this command
-$ npm run ios
-# Or just start the bundle
-$ npm run start
-```
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">
-  Made with 💜 by <a href="https://www.linkedin.com/in/eliasgcf/">Elias Gabriel</a>
-</p>
