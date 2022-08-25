@@ -12,6 +12,10 @@ You can view the project layout through the link below:
 
 - [Feedback Widget - Figma](https://www.figma.com/community/file/1102912516166573468)
 
+<a>
+<img src="https://user-images.githubusercontent.com/89225210/186669267-7aa78dc0-10ca-472f-8d26-62e028ba1b7c.jpg">
+</a>
+
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
 
