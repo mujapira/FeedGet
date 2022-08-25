@@ -19,7 +19,7 @@ You can view the project layout through the link below:
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
 
-✨ Desenvolvido com as seguintes tecnologias:
+✨ Developed with the following technologies:
 - <img src="https://user-images.githubusercontent.com/89225210/154761002-389268dc-1404-4e8e-96ed-6f83916ae9ef.png" height="15px"/>[React](https://reactjs.org)
 - <img src="https://user-images.githubusercontent.com/89225210/169611439-0b610544-c401-4bf1-814d-3ce12774c37d.png" height="15px"/>[Tailwind CSS](https://tailwindcss.com/)
 - <img src="https://user-images.githubusercontent.com/89225210/154760385-8c7a5ab6-c15e-4dee-b285-d0ca77952d29.png"  height="15px"/>[TypeScript](https://www.typescriptlang.org/)
